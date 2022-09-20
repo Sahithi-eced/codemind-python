@@ -7,3 +7,4 @@ if n<=s:
     print("True")
 else:
     print("False")
+        
